@@ -19,4 +19,9 @@ Ciao! Sono un appassionato sviluppatore backend con una fervente passione per l'
 
 Unisciti a me nel mondo del backend e insieme creeremo il futuro digitale! 🌟
 
-!Java      !C++       !C#       !PHP     !MySQL
+!Java Java
+!C++ C++
+!C# C#
+!PHP PHP
+!MySQL MySQL
+
