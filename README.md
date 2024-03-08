@@ -18,3 +18,5 @@ Ciao! Sono un appassionato sviluppatore backend con una fervente passione per l'
 🚀 **Scalabilità**: Le mie soluzioni crescono più velocemente di un razzo SpaceX.
 
 Unisciti a me nel mondo del backend e insieme creeremo il futuro digitale! 🌟
+
+!Java      !C++       !C#       !PHP     !MySQL
